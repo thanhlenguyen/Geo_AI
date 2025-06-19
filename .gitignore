@@ -1,0 +1,11 @@
+# Ignore large data files or folders
+*.zip
+*.tar.gz
+*.rar
+*.csv
+*.json
+*.mbtiles
+*.geojson
+.envs/
+data/
+results/
